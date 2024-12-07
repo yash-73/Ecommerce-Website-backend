@@ -1,18 +1,18 @@
 An Ecommerce Website backend made using Java Spring Boot.
 I made this project while learning backend development in Spring Boot.
 It focuses on the main features of an ecommerce website like: 
--Authentication & Authorization using JWTs
--CRUD operations for categories and products
--Implementing RESTful APIs  
--Paging and Sorting
--Cart handling
--Order placement
+ - Authentication & Authorization using JWTs
+ - CRUD operations for categories and products
+ - Implementing RESTful APIs  
+ - Paging and Sorting
+ - Cart handling
+ - Order placement
 
 
 Future Scope
--Implementing a payment gateway, 
--Operation to change password through email verification
--A dashboard for sellers to handle orders
+ - Implementing a payment gateway, 
+ - Operation to change password through email verification
+ - A dashboard for sellers to handle orders
 
 
 The aim behind making this project was to understand how SpringBoot works and how it makes development easier and faster. 
